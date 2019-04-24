@@ -1,5 +1,5 @@
 # A Star and Dijkstra
-  A Star and Dijkstra algorithms are implemented for point robot and rigid circular robot. The obstacle space is defined using half plane equation. For rigid robot is updated with Minskowski sum.
+  A Star and Dijkstra algorithms are implemented for point robot and rigid circular robot. The obstacle space is defined using half plane equation. For rigid robot, the obstacle space is updated with Minskowski sum.
 
 
 ## Result
